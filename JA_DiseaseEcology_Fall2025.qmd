@@ -1,0 +1,32 @@
+---
+title: " JA_DiseaseEcology_Fall2025"
+author: "Janset Aksoy"
+format: html
+editor: visual
+---
+
+**8/29/2025**
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/EpiTriad.png)
+
+The epidemiological triad is a model used to understand how diseases happen. It includes three parts: the **pathogen** (what causes the disease, like a virus or bacteria), the **host** (the person or animal that can get sick), and the **environment** (the surroundings that make it easier or harder for the disease to spread). Disease occurs when the agent, host, and environment interact in a way that allows infection.
+
+```{}
+```
