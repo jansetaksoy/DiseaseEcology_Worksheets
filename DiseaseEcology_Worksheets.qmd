@@ -174,3 +174,36 @@ The epidemic curve indicates this is a point source outbreak. Incorrect, the cur
 | Pond 2   | 15    | 1            | 6.7                | 0.3 to 30.2    |
 
 -   Fisher’s exact test p-value: 0.1987
+------------------------------------------------------------------------
+**Worksheet 7**
+**How do the modes of transmission differ between Malaysia and Bangladesh**
+
+A: In Malaysia (1998-1999), transmission was primarily pig-to-human through direct contact with infected pigs, which served as amplifying hosts after acquiring the virus from fruit bats. Human-to-human transmission was minimal with only two potential cases. In contrast, Bangladesh transmission involves bat-to-human (via contaminated date palm sap) and significantly human-to-human transmission (approximately 46% of cases). The Bangladesh strain produces higher respiratory viral loads, facilitating person-to-person spread through close contact.
+
+ **How do these differences influence preventive measures in each setting?**
+
+Malaysia focused on agricultural control through mass pig culling (over one million pigs), restricting fruit tree planting near farms, and implementing livestock biosecurity. Bangladesh prevention emphasizes behavioral and clinical measures: avoiding raw date palm sap consumption, using bamboo skirts on palm trees to exclude bats, and in healthcare settings, implementing strict barrier nursing, PPE protocols, contact tracing, isolation of cases, and enhanced environmental disinfection with adequate ventilation standards.
+
+**What are the different transmission routes of avian reovirus?**
+
+ARV transmits via three routes: (1) Fecal-oral (most common) through contaminated feed, water, and litter; (2) Respiratory transmission, though less frequent; and (3) Vertical transmission from infected breeders to progeny through eggs at approximately two percent rate.
+
+**Which environmental factors favor ARV transmission?**
+
+High bird densities facilitate rapid fecal-oral spread. ARV exhibits exceptional environmental persistence, surviving ten or more days on feathers and eggshells, and ten or more weeks in drinking water. The virus resists heat, proteolytic enzymes, pH variations, and many disinfectants. Winter and spring show higher transmission rates than summer and fall, with overcrowding at winter roosts amplifying spread.
+
+**What pathogen characteristics support one of these transmission routes?**
+
+The non-enveloped icosahedral capsid structure containing double-stranded RNA confers exceptional environmental stability, supporting prolonged survival and fecal-oral transmission. Vertically infected chicks shed high viral loads that rapidly spread to flockmates through contaminated droppings.
+
+**Provide an example of a wild bird disease caused by ARV and describe its impact.**
+
+Corvid orthoreovirus causes winter mortality in wild birds, particularly American crows, hooded crows, and magpies. Hundreds to thousands congregate at winter roosts, enabling efficient fecal-oral transmission. Clinical signs include severe hepatic and splenic necrosis, hepatitis, enteritis, and neurological symptoms. Documented outbreaks in North America and Europe cause significant mortality—hundreds of birds per event.
+
+**What is the likely reservoir and transmission route of Langya virus?**
+
+The Asian house shrew (Crocidura lasiura) is the likely natural reservoir, with approximately twenty-seven percent of tested shrews positive for LayV RNA. Transmission occurs through zoonotic spillover from shrews to humans, likely via direct contact or an intermediate host. All identified cases involved farmers or factory workers with recent animal exposure.
+
+**Why is LayV classified as a spillover and not a potential EID**
+
+LayV lacks sustained human-to-human transmission—the defining characteristic of an emerging infectious disease. Contact tracing documented no secondary human cases among close contacts, and cases show no epidemiological clustering, spatial, or temporal connections. Each case represents an independent animal-to-human jump, not maintained circulation in human populations. Without acquiring human transmission adaptations, LayV remains a dead-end spillover infection with minimal pandemic risk.
