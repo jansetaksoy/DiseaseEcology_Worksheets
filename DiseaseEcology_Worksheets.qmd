@@ -207,3 +207,79 @@ The Asian house shrew (Crocidura lasiura) is the likely natural reservoir, with 
 **Why is LayV classified as a spillover and not a potential EID**
 
 LayV lacks sustained human-to-human transmission—the defining characteristic of an emerging infectious disease. Contact tracing documented no secondary human cases among close contacts, and cases show no epidemiological clustering, spatial, or temporal connections. Each case represents an independent animal-to-human jump, not maintained circulation in human populations. Without acquiring human transmission adaptations, LayV remains a dead-end spillover infection with minimal pandemic risk.
+------------------------------------------------------------------------
+**Worksheet 8**
+Overall Infection Summary
+
+Out of 106 raccoons examined during 2013-2014, 50 were infected with B. procyonis, yielding an overall prevalence of 47.17% (95% CI: 37.93%, 56.60%). The mean worm burden across all raccoons was 4.45 worms, but among infected animals, the mean intensity was 9.44 worms (range: 1-54 worms).
+
+Regional Prevalence Patterns
+
+Significant regional differences were detected (Chi-square = 12.66, p = 0.0018). The three regions showed markedly different infection patterns:​
+
+North Region: 14 of 49 raccoons infected (28.57%, 95% CI: 17.85%, 42.41%)
+
+Central Region: 9 of 14 raccoons infected (64.29%, 95% CI: 38.76%, 83.66%)
+
+South Region: 27 of 43 raccoons infected (62.79%, 95% CI: 47.86%, 75.62%)
+
+The North region had significantly lower prevalence compared to both Central (p = 0.0256) and South (p = 0.0015) regions. However, Central and South regions showed no significant difference from each other (p = 1.0000). This pattern suggests that environmental or ecological factors specific to the North region may limit parasite transmission or establishment.​
+
+Sex-Related Patterns
+
+Overall, females had significantly higher prevalence than males across all regions combined (64.86% vs 37.68%, p = 0.0087). The odds ratio of 0.328 indicates males were about three times less likely to be infected than females.​
+
+Regional breakdown by sex revealed:
+
+North Region: Males 21.43% (6/28), Females 38.10% (8/21), p = 0.2219 (not significant)
+
+Central Region: Males 44.44% (4/9), Females 100.00% (5/5), p = 0.0859 (not significant)
+
+South Region: Males 50.00% (16/32), Females 100.00% (11/11), p = 0.0030 (significant)
+
+The South region showed the most dramatic sex difference, where every female raccoon examined was infected. In the Central region, all females were also infected, though the small sample size (n=5) limited statistical power. This strong sex bias may reflect behavioral differences, with female raccoons potentially having higher exposure to contaminated environments, particularly during denning and kit-rearing periods when they may aggregate in latrines.​
+
+Age Class Comparisons
+
+Adults showed higher overall prevalence (52.17%) compared to young adults (37.84%), but this difference was not statistically significant (p = 0.2206). The odds ratio of 1.792 suggests adults were about 1.8 times more likely to be infected, consistent with cumulative exposure over time.​
+
+Regional age patterns:
+
+North Region: Adults 28.00% vs Young Adults 29.17% (p = 1.0000)
+
+Central Region: Adults 61.54% vs Young Adults 100.00% (p = 1.0000, though only 1 YA sampled)
+
+South Region: Adults 67.74% vs Young Adults 50.00% (p = 0.3126)
+
+None of these regional differences by age were statistically significant, suggesting that in this population, age-related accumulation of infection may be less important than other factors like sex or geographic location.​
+
+Worm Burden Analysis
+
+Among infected raccoons, mean intensity varied by region but not significantly (Kruskal-Wallis H = 4.75, p = 0.0929):
+
+North: Mean 3.50 worms (median 2.0, range 1-12)
+
+Central: Mean 12.22 worms (median 4.0, range 2-51)
+
+South: Mean 11.59 worms (median 2.0, range 1-54)
+
+Despite similar prevalence between Central and South regions, both showed higher mean intensities than the North, though with high variability (standard deviations of 16.55 and 17.13, respectively). The highly skewed distributions (medians well below means) indicate aggregated parasite distributions, typical of helminth infections.​
+
+Sex differences in worm burden were not significant (p = 0.1800), though infected females carried a mean of 13.96 worms compared to 5.27 in males. Similarly, age classes showed no significant difference in intensity (p = 0.7338), with adults averaging 9.19 worms and young adults 10.07 worms.
+
+Interpretation and Ecological Context
+
+The observed prevalence rates (28.57-64.29%) fall within the range reported for B. procyonis across North America, where prevalence can reach 90% in some areas, particularly in the Midwest and Northeast. The lower prevalence in the North region of this study area may reflect localized environmental conditions affecting egg survival or transmission dynamics.​
+
+The striking female bias in infection, particularly the 100% prevalence in South and Central region females, is notable. B. procyonis eggs require 10-14 days to embryonate in the environment and can remain viable for years in soil. Female raccoons' latrine use patterns, potentially involving more frequent visits to communal defecation sites during reproduction and kit-rearing, could explain higher exposure.​
+
+The lack of significant age effects suggests that exposure occurs relatively early in life, or that infection dynamics in this population may involve both acquisition and loss (through mortality or immunity), rather than simple cumulative accumulation. The high worm burdens observed in some individuals (up to 54 worms) indicate heavy environmental contamination in some areas.​
+
+Public health implications: With nearly half of sampled raccoons infected and worm burdens sometimes exceeding 50 parasites, environmental contamination with B. procyonis eggs represents a significant zoonotic risk. The parasite causes severe neurological disease in accidental hosts, including humans, particularly children with pica or developmental disabilities. Prevention requires avoiding contact with raccoon feces, removing latrines from residential areas, and recognizing clinical signs for early treatment.​
+
+Methodological Notes
+
+All prevalence estimates were calculated using Wilson score confidence intervals, which provide more accurate coverage than traditional normal approximation methods, especially for proportions near 0 or 1 and with moderate sample sizes. This approach is recommended in quantitative parasitology for its robustness.
+
+Statistical comparisons used Fisher's exact tests for 2×2 tables and Chi-square tests for multi-group comparisons of prevalence, while non-parametric tests (Mann-Whitney U and Kruskal-Wallis) were employed for worm burden comparisons due to the highly skewed, aggregated distribution typical of parasite data
+
