@@ -283,64 +283,67 @@ All prevalence estimates were calculated using Wilson score confidence intervals
 
 Statistical comparisons used Fisher's exact tests for 2×2 tables and Chi-square tests for multi-group comparisons of prevalence, while non-parametric tests (Mann-Whitney U and Kruskal-Wallis) were employed for worm burden comparisons due to the highly skewed, aggregated distribution typical of parasite data
 ------------------------------------------------------------------------
+**Worksheet 9**
+Question 1: 
 Three behaviors that increased Salmonella transmission:
 
-Kissing/cuddling poultry: Direct mouth contact with infected birds transfers bacteria from contaminated feathers and skin to humans.​
+Kissing/cuddling poultry: Direct contact transfers bacteria from contaminated birds to human mouths and faces.​
 
-Bringing poultry indoors: Housing birds inside homes contaminates household surfaces with fecal material, creating cross-contamination during food handling and eating.​
+Bringing poultry indoors: Housing birds inside homes contaminates household surfaces with fecal material, leading to cross-contamination during food handling.​
 
-Poor hand hygiene: Failing to wash hands after handling birds or equipment allows bacteria to transfer to food and mouth.​
+Poor hand hygiene: Failing to wash hands after handling birds allows bacteria to transfer to food and mouth.​
 
-Question 2: 
+Question 2:
 a. Advantages to fescue (3 points):
-Endophyte infection provides insect resistance, drought tolerance, and improved plant persistence under stress.​
+Endophyte infection provides insect resistance, drought tolerance, and improved plant survival under stress.​
 
 b. Environmental factors driving toxicosis (4 points):
 
-High temperature (>75-80°F) exacerbates vasoconstriction effects​
+High temperature increases toxin effects​
 
-Plant maturity stage (alkaloids highest in reproductive tissues)​
+Plant maturity stage (toxins concentrate in reproductive tissues)​
 
 Nitrogen fertilization enhances toxin production​
 
-Cold weather worsens fescue foot/lameness​
+Cold weather worsens lameness symptoms​
 
 c. Key clinical signs (3 points):
 
 Reduced feed intake and weight loss
 
-Rough, long hair coat; failure to shed
+Rough, long hair coat; poor shedding
 
-Heat stress, hyperthermia, and fescue foot (lameness/gangrene)​
-
-Question 3: 
+Heat stress and lameness/gangrene in extremities​
+------------------------------------------------------------------------
+**Worksheet 10**
+Question 1: African Swine Fever Transmission (10 points)
 Transmission routes:
 
 Direct animal contact​
 
-Oral (contaminated feed/water)​
+Contaminated feed and water​
 
-Fomites and contaminated equipment​
+Contaminated equipment and environments​
 
-Soft ticks (Africa only)​
+Soft ticks (in Africa)​
 
 Human role in spread:
-Humans are mechanical vectors spreading ASF through: (1) transporting contaminated pork products and food waste, (2) moving between farms on contaminated clothing/equipment, (3) poor biosecurity practices, and (4) illegal animal trade. Humans cannot contract the disease but account for ~8.79% of ASF transmission.​
+Humans spread ASF through: (1) transporting infected pork products and food waste, (2) moving contaminated clothing and equipment between farms, (3) poor biosecurity practices, and (4) illegal animal trade. Humans cannot get infected but are major disease vectors.​
 
-Question 4
-Severity: KoRV-B infection significantly increases chlamydial disease severity, particularly conjunctivitis, cystitis, and reproductive disease.​
+Question 2: KoRV and Chlamydia Co-infection in Koalas (10 points)
+Severity: KoRV infection significantly increases chlamydial disease severity, including eye, urinary, and reproductive infections.​
 
-Progression: KoRV-B causes immune dysregulation with altered cytokine expression (IL-17A, IFN-γ) and decreased CD4:CD8 ratios, making koalas more susceptible to persistent Chlamydia infection.​
+Progression: KoRV impairs immune function, making koalas more susceptible to persistent chlamydial infection and worse outcomes.​
 
-Management: KoRV status must be considered during treatment; high KoRV loads correlate with more severe disease requiring intensive intervention. However, koalas maintain vaccine responsiveness despite KoRV infection.​
+Management: KoRV-infected koalas may require more intensive treatment; however, they still respond to vaccines despite the infection.​
 
-Question 5: 
+Question 3: Snake Fungal Disease Surveillance and Management Challenges (10 points)
+Key challenges:
 
-Detection: High false-negative rates in qPCR testing; fungus unevenly distributed on snakes; requires full-body swabbing.​
+Detection: Testing often misses infections because the fungus is unevenly distributed on snakes; requires extensive sampling.​
 
-Variable outcomes: Some populations show 100% mortality; others show disease resolution with unclear population impacts.​
+Variable outcomes: Some snake populations suffer high mortality; others show disease resolution with unclear long-term impacts.​
 
-Environmental persistence: Fungus widespread across eastern U.S.; environmental transmission factors poorly understood.​
+Environmental persistence: The fungus is widespread across eastern U.S.; transmission factors are poorly understood.​
 
-Limited management: Few options for wild populations; rehabilitation is impractical and snakes often reinfect. Behavioral changes (anorexia, abnormal activity) worsen fitness impacts.
-
+Limited management: Few options for wild populations; treating individual snakes is impractical and often unsuccessful, and infected snakes exhibit behavioral changes that reduce fitness
