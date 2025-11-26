@@ -282,4 +282,65 @@ Methodological Notes
 All prevalence estimates were calculated using Wilson score confidence intervals, which provide more accurate coverage than traditional normal approximation methods, especially for proportions near 0 or 1 and with moderate sample sizes. This approach is recommended in quantitative parasitology for its robustness.
 
 Statistical comparisons used Fisher's exact tests for 2×2 tables and Chi-square tests for multi-group comparisons of prevalence, while non-parametric tests (Mann-Whitney U and Kruskal-Wallis) were employed for worm burden comparisons due to the highly skewed, aggregated distribution typical of parasite data
+------------------------------------------------------------------------
+Three behaviors that increased Salmonella transmission:
+
+Kissing/cuddling poultry: Direct mouth contact with infected birds transfers bacteria from contaminated feathers and skin to humans.​
+
+Bringing poultry indoors: Housing birds inside homes contaminates household surfaces with fecal material, creating cross-contamination during food handling and eating.​
+
+Poor hand hygiene: Failing to wash hands after handling birds or equipment allows bacteria to transfer to food and mouth.​
+
+Question 2: 
+a. Advantages to fescue (3 points):
+Endophyte infection provides insect resistance, drought tolerance, and improved plant persistence under stress.​
+
+b. Environmental factors driving toxicosis (4 points):
+
+High temperature (>75-80°F) exacerbates vasoconstriction effects​
+
+Plant maturity stage (alkaloids highest in reproductive tissues)​
+
+Nitrogen fertilization enhances toxin production​
+
+Cold weather worsens fescue foot/lameness​
+
+c. Key clinical signs (3 points):
+
+Reduced feed intake and weight loss
+
+Rough, long hair coat; failure to shed
+
+Heat stress, hyperthermia, and fescue foot (lameness/gangrene)​
+
+Question 3: 
+Transmission routes:
+
+Direct animal contact​
+
+Oral (contaminated feed/water)​
+
+Fomites and contaminated equipment​
+
+Soft ticks (Africa only)​
+
+Human role in spread:
+Humans are mechanical vectors spreading ASF through: (1) transporting contaminated pork products and food waste, (2) moving between farms on contaminated clothing/equipment, (3) poor biosecurity practices, and (4) illegal animal trade. Humans cannot contract the disease but account for ~8.79% of ASF transmission.​
+
+Question 4
+Severity: KoRV-B infection significantly increases chlamydial disease severity, particularly conjunctivitis, cystitis, and reproductive disease.​
+
+Progression: KoRV-B causes immune dysregulation with altered cytokine expression (IL-17A, IFN-γ) and decreased CD4:CD8 ratios, making koalas more susceptible to persistent Chlamydia infection.​
+
+Management: KoRV status must be considered during treatment; high KoRV loads correlate with more severe disease requiring intensive intervention. However, koalas maintain vaccine responsiveness despite KoRV infection.​
+
+Question 5: 
+
+Detection: High false-negative rates in qPCR testing; fungus unevenly distributed on snakes; requires full-body swabbing.​
+
+Variable outcomes: Some populations show 100% mortality; others show disease resolution with unclear population impacts.​
+
+Environmental persistence: Fungus widespread across eastern U.S.; environmental transmission factors poorly understood.​
+
+Limited management: Few options for wild populations; rehabilitation is impractical and snakes often reinfect. Behavioral changes (anorexia, abnormal activity) worsen fitness impacts.
 
