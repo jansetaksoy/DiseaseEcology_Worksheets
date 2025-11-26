@@ -294,10 +294,10 @@ Bringing poultry indoors: Housing birds inside homes contaminates household surf
 Poor hand hygiene: Failing to wash hands after handling birds allows bacteria to transfer to food and mouth.​
 
 Question 2:
-a. Advantages to fescue (3 points):
+a. Advantages to fescue:
 Endophyte infection provides insect resistance, drought tolerance, and improved plant survival under stress.​
 
-b. Environmental factors driving toxicosis (4 points):
+b. Environmental factors driving toxicosis:
 
 High temperature increases toxin effects​
 
@@ -307,7 +307,7 @@ Nitrogen fertilization enhances toxin production​
 
 Cold weather worsens lameness symptoms​
 
-c. Key clinical signs (3 points):
+c. Key clinical signs:
 
 Reduced feed intake and weight loss
 
@@ -316,7 +316,8 @@ Rough, long hair coat; poor shedding
 Heat stress and lameness/gangrene in extremities​
 ------------------------------------------------------------------------
 **Worksheet 10**
-Question 1: African Swine Fever Transmission (10 points)
+
+Question 1
 Transmission routes:
 
 Direct animal contact​
@@ -330,14 +331,14 @@ Soft ticks (in Africa)​
 Human role in spread:
 Humans spread ASF through: (1) transporting infected pork products and food waste, (2) moving contaminated clothing and equipment between farms, (3) poor biosecurity practices, and (4) illegal animal trade. Humans cannot get infected but are major disease vectors.​
 
-Question 2: KoRV and Chlamydia Co-infection in Koalas (10 points)
+Question 2
 Severity: KoRV infection significantly increases chlamydial disease severity, including eye, urinary, and reproductive infections.​
 
 Progression: KoRV impairs immune function, making koalas more susceptible to persistent chlamydial infection and worse outcomes.​
 
 Management: KoRV-infected koalas may require more intensive treatment; however, they still respond to vaccines despite the infection.​
 
-Question 3: Snake Fungal Disease Surveillance and Management Challenges (10 points)
+Question 3
 Key challenges:
 
 Detection: Testing often misses infections because the fungus is unevenly distributed on snakes; requires extensive sampling.​
